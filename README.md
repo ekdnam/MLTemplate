@@ -1,2 +1,2 @@
 # MLFramework
- Sample ML Framework to train models with less latency
+ Sample ML Framework template to train models with less latency
