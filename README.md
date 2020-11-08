@@ -1,2 +1,2 @@
 # MLFramework
- Sample ML Framework to run models on the get-go
+ Sample ML Framework to train models with less latency
