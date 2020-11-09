@@ -4,8 +4,10 @@ import os
 from sklearn import ensemble
 from sklearn import metrics
 import joblib
+
 # from . import dispatcher
 import dispatcher
+
 # TRAINING_DATA = os.environ.get("TRAINING_DATA")
 # Fold = os.environ.get("FOLD")
 
@@ -16,7 +18,7 @@ FOLD = 0
 # FOLD = 3
 # FOLD = 4
 
-MODEL = 'extratrees'
+MODEL = "extratrees"
 
 FOLD_MAPPING = {
     0: [1, 2, 3, 4],
